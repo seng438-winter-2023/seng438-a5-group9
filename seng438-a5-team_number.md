@@ -2,12 +2,13 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
-|-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Group \#:         | 9     |
+| --------------    | ---   |
+| Student Names     |       |
+| Sina Pordanesh    |       |
+| Bryant Stevnes    |       |
+| Noureldin Amer    |       |
+| Thevin Mahawatte  |       |
 
 # Introduction
 
@@ -23,9 +24,21 @@
 
 # Discussion on Similarity and Differences of the Two Techniques
 
+Both Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC) are techniques used in software integration testing to assess the failure data and improve the reliability of software systems.
+
+Here are some similarities we identified,
+  1.	Reliability Growth Testing is used to identify and correct defects in software that affect reliability, while Reliability Demonstration Chart is used to        demonstrate that a software system meets a specified reliability goal.
+  2.	Both use statistical methods to analyze data and make predictions about the reliability of the software system. In Reliability Growth Testing, statistical models are used to predict the number of remaining defects, while in Reliability Demonstration Chart, statistical methods are used to estimate the probability of meeting the specified reliability goal.
+  3.	Both techniques require iterative testing to provide a better result of the system under test.
+
+Here are some differences we identified,
+  1.	Reliability growth testing is used as iterative testing and analysis of a software system to identify and eliminate defects that cause failures while Reliability Demonstration Chart technique is used to demonstrate the reliability of a software system based on a predefined level of confidence.
+  2.	The goal of reliability growth testing technique is to improve the reliability of the software system over time and the goal of reliability demonstration chart testing technique is to provide evidence that the software system meets a specified level of reliability.
+  3.	What is reliability growth testing mostly does is that it monitors and analyze failure data, identify the root cause of failures, and implement corrective actions to eliminate the identified defects while reliability demonstration chart does is that it develops a reliability demonstration plan, select a statistical distribution to model the failure data, and construct an while reliability demonstration chart to assess the software system's reliability.
+
 # How the team work/effort was divided and managed
 
-# 
+For this assignment, we worked by diving each technique with each other and started working on it while explaining to others how each technique does and what kind o results it provides. Finally for the report, 8 topics we had were divided between each team member as 2 topics per person.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
